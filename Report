@@ -1,0 +1,43 @@
+																													
+								-: NER Rich Classification :-
+
+
+Algorithm						       Accuracy			Train:Test Data Ratio		    Accuracy of test samples
+
+									    86.74					70:30							83.99
+
+Logistic Regression						86.97					60:40							83.90
+															
+										86.34					80:20							83.65
+															
+															
+															
+										85.01					70:30							82.29
+
+Support Vector Machine					85.25					60:40							82.06
+															
+										84.38					80:20							81.98
+
+
+
+										75.86					70:30							70.98
+	
+K-Nearest Neighbor						75.23					60:40							70.98
+															
+										74.77					80:20							70.98
+															
+															
+															
+										81.50					70:30							78.50
+
+Decision Tree							80.30					60:40							78.15
+															
+										81.86					80:20							79.00
+															
+															
+															
+										43.09					70:30							36.78
+
+Naive Byes								44.21					60:40							36.55
+															
+										41.97					80:20							34.37
